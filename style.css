@@ -30,6 +30,7 @@ text-align: right;
 .piscine2{
   text-align: right;
 }
-aside{
+.texte1{
   display: inline-block;
+  margin-right: 10px;
 }
