@@ -1,0 +1,32 @@
+html, body{
+  padding: 0;
+}
+
+.image1{
+  width: 100px;
+
+}
+
+.image2{
+  float: right;
+  width: 225px;
+
+}
+h1{
+  text-align: center;
+}
+
+form{
+  float: right;
+  padding-top: 35px;
+}
+figure img{
+  width: 400px;
+}
+.image3{
+text-align: right;
+}
+
+.piscine2{
+  text-align: right;
+}
