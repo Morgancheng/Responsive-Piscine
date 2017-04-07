@@ -2,23 +2,22 @@ html, body{
   padding: 0;
   background-color: skyblue;
 }
-@media and (max-width: 250px)
-{
+@media only screen and (max-device-width: 700px)
 
 
 .image1{
-  width: 50px;
+  width: 15%;
 
 }
 
 .image2{
   float: right;
-  width: 100px;
+  width: 25%;
 }
 
 
 figure img{
-  width: 160px;
+  width: 90%;
   border: 3px solid red;
 }
 input{
@@ -36,8 +35,8 @@ value{
 /*page formulaire*/
 
 iframe{
-  width: 335px;
-  height: 200px;
+  width: 90%;
+  height: 90%;
 }
 p{
   background-color: white;
