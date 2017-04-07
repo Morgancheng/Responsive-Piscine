@@ -1,15 +1,17 @@
 html, body{
   padding: 0;
+  max-width: 95%;
+  max-height: 95%;
 }
 
 .image1{
-  width: 100px;
+  width: 50px;
 
 }
 
 .image2{
   float: right;
-  width: 225px;
+  width: 100px;
 
 }
 h1{
@@ -18,10 +20,10 @@ h1{
 
 form{
   float: right;
-  padding-top: 35px;
+  padding-top: 45px;
 }
 figure img{
-  width: 400px;
+  width: 160px;
 }
 .image3{
 text-align: right;
@@ -32,5 +34,15 @@ text-align: right;
 }
 .texte1{
   display: inline-block;
-  margin-right: 10px;
+  margin-right: 105px;
+}
+a:hover{
+  text-decoration: underline;
+  color: black;
+}
+a{
+  text-decoration: none;
+}
+*{
+  border: 1px solid black;
 }
