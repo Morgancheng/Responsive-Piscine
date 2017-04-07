@@ -2,6 +2,10 @@ html, body{
   padding: 0;
   background-color: skyblue;
 }
+@media and (max-width: 250px)
+{
+
+
 .image1{
   width: 50px;
 
@@ -27,6 +31,8 @@ input{
 value{
   margin-left: 15px;
 }
+
+}
 /*page formulaire*/
 
 iframe{
@@ -36,3 +42,11 @@ iframe{
 p{
   background-color: white;
 }
+a:hover{
+  text-decoration: underline;
+  color: black;
+}
+a{
+  text-decoration: none;
+}
+/*Tableaux des prix*/
