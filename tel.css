@@ -18,7 +18,6 @@ html, body{
 
 figure img{
   width: 90%;
-  border: 3px solid red;
 }
 input{
  margin: 0 auto;
@@ -30,9 +29,7 @@ input{
 value{
   margin-left: 15px;
 }
-
-/*page formulaire*/
-
+/*Page formulaire*/
 p{
   background-color: white;
 }
