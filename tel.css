@@ -1,0 +1,38 @@
+html, body{
+  padding: 0;
+  background-color: skyblue;
+}
+.image1{
+  width: 50px;
+
+}
+
+.image2{
+  float: right;
+  width: 100px;
+
+}
+*{
+  border: 1px solid black;
+}
+figure img{
+  width: 160px;
+  border: 3px solid red;
+}
+input{
+ margin: 0 auto;
+ padding-right: 102px;
+ padding-left: auto;
+
+}
+
+value{
+  margin-left: 15px;
+}
+iframe{
+  width: 335px;
+  height: 200px;
+}
+p{
+  background-color: white;
+}
